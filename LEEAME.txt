@@ -1,0 +1,4 @@
+----------------- BINARIUM ---------------
+Para el completo funcionamiento de la aplicacion en instancias de esta 2da Entrega es necesaario:
+- Estar conectado a internet
+- Importar en archivo "tiendaiglesaCompleto_schema.sql"
