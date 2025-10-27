@@ -11,7 +11,7 @@ Tecnologías utilizadas
 - Base de datos: MySQL
 - Pasarela de pagos: PayPal
 
-Funcionalidades principales
+Funcionalidades principales 
 ---------------------------
 - Catálogo de productos con filtrado por categorías
 - Carrito de compras funcional
@@ -19,10 +19,9 @@ Funcionalidades principales
 - CRUD completo para administración (agregar, editar, eliminar productos y categorías)
 - Diseño responsive para distintos dispositivos
 
-Archivos
----------------------
-- TiendaOnlineCompleta.rar Contiene el código completo de la página y el contenido sql de la creación de su base de datos y la inserción de los datos.
-- URL contiene el link para ver la pagina
+URL
+--------------------------
+https://tiendacompletaismael.infinityfreeapp.com/
 
 
 Autor
