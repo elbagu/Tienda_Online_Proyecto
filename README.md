@@ -4,7 +4,8 @@
 > Simula una tienda online funcional con catálogo público, carrito de compras, sistema de usuarios y panel de administración.
 
 ---
-<img width="1907" height="963" alt="screentiendainglesa" src="https://github.com/user-attachments/assets/8307a0c4-8a7c-455b-b580-5864803357f2" />
+<img width="1907" height="875" alt="screentiendainglesa" src="https://github.com/user-attachments/assets/1f2c48ed-19f7-46c9-8825-cffa7461894b" />
+
 
 ## 🚀 Descripción General
 
